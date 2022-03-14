@@ -1,0 +1,5 @@
+package com.example.nytimesmostpopulararticles.presentation.main.article
+
+import com.example.nytimesmostpopulararticles.presentation.base.BaseItemListener
+
+interface ArticleAdapterListener : BaseItemListener<ArticleDataItem>
